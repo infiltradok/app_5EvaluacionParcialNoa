@@ -1,0 +1,13 @@
+.docente-card {
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+.docente-card:hover {
+  transform: translateY(-8px);
+}
+
+.docente-card img {
+  height: 280px;
+  object-fit: cover;
+}
